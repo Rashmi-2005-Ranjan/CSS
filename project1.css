@@ -1,0 +1,10 @@
+#internal{
+    color: yellowgreen;
+}
+.external{
+    color: red;
+}
+
+#first,#second{
+    background-color: aquamarine;
+}
